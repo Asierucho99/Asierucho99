@@ -5,6 +5,10 @@
 Apasionado por transformar datos en conocimiento útil mediante análisis, visualización y modelos de Machine Learning.
 </p>
 
+<p align="center">
+Vivo informado sobre la evolución de los cambios en la informática y el mundo tech en general
+</p>
+
 ---
 
 ## 🧠 Sobre mí
